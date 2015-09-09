@@ -1,0 +1,8 @@
+:cachedir: /opt/puppetlabs/r10k/cache
+:sources:
+  :puppetfiles:
+    remote: https://github.com/ppouliot/puppet-Puppetfile_Env
+    basedir: /etc/puppetlabs/code/environments
+#  :hiera:
+#    remote: https://github.com/ppouliot/puppet-hieradata
+#    basedir: /etc/puppet/hiera
